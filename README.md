@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mortexsa
+- 👀 I’m interested in Cyber-Security, Web and Software Development
+- 🌱 I’m currently learning Angular and Cloud Deployment
+- 💞️ I’m looking to collaborate on Angular Web Application
+- 📫 How to reach me -> by mail : slimani-arezki@hotmail.com
