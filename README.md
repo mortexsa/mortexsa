@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @mortexsa
-- 👀 I’m interested in Cyber-Security, Web and Software Development
-- 🌱 I’m currently learning Angular and Cloud Deployment
-- 💞️ I’m looking to collaborate on Angular Web Application
-- 📫 How to reach me : slimani.arezki.pro@gmail.com
+- 👋 Greetings! I'm @mortexsa.
+- 👨‍💻 A seasoned software engineer with an emphasis on full-stack web development, proficient in Angular, Quarkus, Node.js, and more.
+- 🔬 Currently engaged in R&D, diligently applying AI to Identity and Application Security.
+- 💡 Languages? C, C++, Java, Python, JavaScript, PHP. You name it, I code it.
+- 📊 Commanding Elasticsearch, Kibana, Kafka, MySQL, PostgreSQL, and MongoDB.
+- 🚀 Experienced in Docker, Kubernetes, and cloud deployments, honed skills on Google Cloud's GKE.
+- 🔄 Adept at implementing CI/CD pipelines using Jenkins and ArgoCD, always adhering to the GitOps principles.
+- 👥 Scrum Master within my team, facilitating Agile methodologies to foster innovation and efficiency.
+- 🤝 Open for collaborations on engaging projects that push the technological envelope.
+- 📫 Reach out to me: slimani.arezki.pro@gmail.com
