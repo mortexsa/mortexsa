@@ -1,5 +1,5 @@
 - 👋 Greetings! I'm @mortexsa.
-- 👨‍💻 A seasoned software engineer with an emphasis on full-stack web development, proficient in Angular, Quarkus, Node.js, and more.
+- 👨‍💻 I'm a software engineer, focused on full-stack web development, mastering Angular, Quarkus, and Node.js.
 - 🔬 Currently engaged in R&D, diligently applying AI to Identity and Application Security.
 - 💡 Languages? C, C++, Java, Python, JavaScript, PHP. You name it, I code it.
 - 📊 Commanding Elasticsearch, Kibana, Kafka, MySQL, PostgreSQL, and MongoDB.
